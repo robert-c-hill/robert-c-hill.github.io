@@ -34,20 +34,13 @@ redirect_from:
     }
 
     h1 {
-        color: green;
+        color: black;
     }
 </style>
 
 <body>
 
-    <h1>GeeksforGeeks</h1>
-    <h3>Embedding the PDF file Using Object Tag</h3>
-    <object class="pdf" 
-            data=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
-            width="800"
-            height="500">
-    </object>
-</body>
+    <h1>under construction</h1>
+
 
 </html>
