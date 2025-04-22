@@ -26,7 +26,7 @@ redirect_from:
         margin: 0;
         padding: 0;
     }
-  {
+  title {
         text-align: center;
     }
 
@@ -37,7 +37,7 @@ redirect_from:
         <iframe class="pdf" 
                 src=
 "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
-            width="800" height="350">
+            width="800" height="300">
         </iframe>
 </body>
 
