@@ -20,7 +20,6 @@ redirect_from:
         width: 100%;
         aspect-ratio: 4 / 3;
     }
-
     .pdf,
     html,
     body {
@@ -28,24 +27,24 @@ redirect_from:
         margin: 0;
         padding: 0;
     }
-
-    h1,
+   h1,
     h3 {
         text-align: center;
     }
 
-    
+    h1 {
+        color: green;
+    }
 </style>
 
 <body>
-
-    <h3>Embedding the PDF file Using Object Tag</h3>
-    <object class="pdf" 
-            data=
-"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-            width="800"
-            height="500">
-    </object>
+        <h1>GeeksforGeeks</h1>
+        <h3>Embedding the PDF file Using Iframe Tag</h3>
+        <iframe class="pdf" 
+                src=
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
+            width="800" height="500">
+        </iframe>
 </body>
 
 </html>
