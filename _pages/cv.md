@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<html>
 
 <head>
     <title>PDF in HTML</title>
@@ -43,4 +42,3 @@ redirect_from:
     <h1>under construction</h1>
 
 
-</html>
