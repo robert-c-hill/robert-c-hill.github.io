@@ -17,9 +17,5 @@ I am interested in the many applications of isotope geochemistry. My existing bo
 
 Cat Tax
 =======
-<p align="center">
-  <img src="images/cat1.jpg" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="images/cat2.jpg" width="45%">
-</p>
+
 
