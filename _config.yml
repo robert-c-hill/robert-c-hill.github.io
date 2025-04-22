@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Robert Hill, Duke University"
+title                    : "Robert C Hill, Duke University"
 title_separator          : "-"
 name                     : &name "Robert C Hill"
 description              : &description "PhD Candidate - Isotope Geochemistry"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "RobertHill_sq.jpg"
-  name             : "Robert Hill"
+  name             : "Robert C Hill"
   pronouns         : "he/him"  
   bio              : "PhD Candidate - Isotope Geochemistry"
   location         : "Durham, NC, USA"
