@@ -2,6 +2,7 @@
 title: "The strontium isotope fingerprint of phosphate rocks mining"
 collection: publications
 category: manuscripts
+excerpt: ''
 date: 2022-12-01
 venue: 'Science of The Total Environment'
 paperurl: 'https://doi.org/10.1016/j.scitotenv.2022.157971'
