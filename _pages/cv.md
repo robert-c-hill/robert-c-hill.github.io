@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -27,23 +26,18 @@ redirect_from:
         margin: 0;
         padding: 0;
     }
-   h1,
-    h3 {
+  {
         text-align: center;
     }
 
-    h1 {
-        color: green;
-    }
 </style>
 
 <body>
-        <h1>GeeksforGeeks</h1>
-        <h3>Embedding the PDF file Using Iframe Tag</h3>
+        
         <iframe class="pdf" 
                 src=
 "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
-            width="800" height="500">
+            width="800" height="350">
         </iframe>
 </body>
 
