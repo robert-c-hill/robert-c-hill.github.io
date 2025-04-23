@@ -9,45 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<html>
-
-<head>
-    <title>PDF in HTML</title>
-</head>
-<style>
-    .pdf {
-        height: 100%;
-        aspect-ratio: 4 / 3;
-    }
-
-    .pdf,
-    html,
-    body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
-    h1,
-    h3 {
-        
-    }
-
-    h1 {
-        color: black;
-    }
-</style>
-
-<body>
-
-    <object class="pdf" 
-            data=
-"https://robert-c-hill.github.io/files/Robert.C.Hill_CV.pdf"
-            width="800"
-            height="500">
-    </object>
-</body>
-
-</html>
-
+<embed src="/files/Robert.C.Hill_CV.pdf" type="application/pdf" width="100%" height="100%" />
 
