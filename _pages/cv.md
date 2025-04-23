@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="text-align: center;">
     <h1>Curriculum Vitae</h1>
-    <p> href="/files/Robert.C.Hill_CV.pdf">Download PDF</p>
+    <p><a href="/files/Robert.C.Hill_CV.pdf">Download PDF</a></p>
 </div>
 
 
