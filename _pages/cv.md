@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<x align="center"> Curriculum Vitae </x>
+Curriculum Vitae
 ======
-<a href="/files/Robert.C.Hill_CV.pdf">Download PDF</a> 
+<x align="center"> <a href="/files/Robert.C.Hill_CV.pdf">Download PDF</a> </x>
 
 <object data="/files/Robert.C.Hill_CV.pdf" type="application/pdf" width="100%" height="100%">
    This browser does not support PDFs. Please download the PDF to view it: 
