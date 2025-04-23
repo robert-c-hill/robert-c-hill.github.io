@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<html>
 
 <head>
     <title>PDF in HTML</title>
@@ -39,6 +40,15 @@ redirect_from:
 
 <body>
 
-    <h1>under construction</h1>
+    <h1>Curriculum Vitae</h1>
+    <object class="pdf" 
+            data=
+"https://robert-c-hill.github.io/files/Robert.C.Hill_CV.pdf"
+            width="800"
+            height="500">
+    </object>
+</body>
+
+</html>
 
 
