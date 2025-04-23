@@ -16,7 +16,7 @@ redirect_from:
 </head>
 <style>
     .pdf {
-        width: 100%;
+        height: 100%;
         aspect-ratio: 4 / 3;
     }
 
@@ -30,7 +30,7 @@ redirect_from:
 
     h1,
     h3 {
-        text-align: center;
+        
     }
 
     h1 {
@@ -40,7 +40,6 @@ redirect_from:
 
 <body>
 
-    <h1>Curriculum Vitae</h1>
     <object class="pdf" 
             data=
 "https://robert-c-hill.github.io/files/Robert.C.Hill_CV.pdf"
