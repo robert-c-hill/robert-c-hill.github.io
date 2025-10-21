@@ -13,7 +13,7 @@ Welcome! I am a PhD Candidate in Earth and Climate Sciences at Duke University. 
 
 Looking Forward
 ======
-I am interested in the many applications of isotope geochemistry. My existing body of research consists of isotope geochemistry applications from deep-time earth systems to contemporary anthropogenically impacted modern systems. However, the applications of isotope chemistry extend far beyond geological and environmental sciences. Following completion of my PhD program in spring 2026, I am interested in pursuing post-doctoral study in isotope metallomics (application of isotopes in health sciences). 
+I am interested in the many applications of isotope geochemistry. My existing body of research consists of isotope geochemistry applications from deep-time earth systems to contemporary anthropogenically impacted modern systems. However, the applications of isotope chemistry extend far beyond geological and environmental sciences. Following completion of my PhD program in spring 2026, I am interested in pursuing post-doctoral research in isotope metallomics (application of isotopes in biological sciences). 
 
 Cat Tax
 =======
