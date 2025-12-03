@@ -19,4 +19,4 @@ redirect_from:
    This browser does not support PDFs. Please download the PDF to view it: 
    <a href="/files/Robert.C.Hill_CV.pdf">Download PDF</a>.
 </object>
-<div style="text-align: center;"><i>updated October 21, 2025</i></div>
+<div style="text-align: center;"><i>updated December 3, 2025</i></div>
