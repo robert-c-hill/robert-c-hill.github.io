@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "<a href="https://nicholas.duke.edu/news/scientists-develop-new-geochemical-fingerprint-trace-contaminants-fertilizer">Test</>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Fert.PR.in.Hands.png'>"
 collection: portfolio
 ---
 
