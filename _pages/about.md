@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-Welcome! I am a PhD Candidate in Earth and Climate Sciences at Duke University. I currently work in the [Vengosh Lab Group](https://sites.nicholas.duke.edu/avnervengosh/) where we conduct research within various applications of geochemistry. My current research is two-fold and housed in the sub-field of isotope geochemistry. I study the isotope geochemistry of phosphate rocks and fertilizers, for reconstructing paleo-ocean conditions of phosphate rock formation and as potential tracers of trace metals associated with fertilizer application. I currently teach an ECS 390 course, titled Freshwater Biogeochemistry: Processes and Human Impacts. Outside of research and teaching, I enjoy trying out new recipes, pampering my cat, doing DIY home renovations, and being pickeleball.
+Welcome! I am a PhD Candidate in Earth and Climate Sciences at Duke University. I currently work in the [Vengosh Lab Group](https://sites.nicholas.duke.edu/avnervengosh/) where we conduct research within various applications of geochemistry. My current research is two-fold and housed in the sub-field of isotope geochemistry. I study the isotope geochemistry of phosphate rocks and fertilizers, for reconstructing paleo-ocean conditions of phosphate rock formation and as potential tracers of trace metals associated with fertilizer application. I currently teach an ECS 390 course, titled Freshwater Biogeochemistry: Processes and Human Impacts. Outside of research and teaching, I enjoy trying out new recipes, pampering my cat, doing DIY home renovations, and winning at pickeleball.
 
 Looking Forward
 ======
