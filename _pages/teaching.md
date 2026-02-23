@@ -7,18 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="margin-top: 40px;padding: 30px;background: #f4f4f4;border-radius: 18px">
-    <h1 style="text-align: center;margin: 0 0 30px 0">Potential Course Offerings</h1>
-    <div style="display: grid;grid-template-columns: repeat(3, 1fr);gap: 20px">
-    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Introductory Environmental Geology</div>
-    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Aquatic Environmental Chemistry</div>
-    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Isotope Geochemistry</div>
-    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Biogeochemistry</div>
-    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Environmental Data Exploration (R)</div>
-    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Environmental Geochemistry</div>
-    </div>
-</div>
-
 <div style="text-align: center;">
     <h1>Teaching Statement</h1>
 </div>
@@ -32,7 +20,7 @@ author_profile: true
 
 </details>
 
-<details open>
+<details>
 <summary><span style="font-size: 1.4rem; font-weight: 700;">Experience</span></summary>
             
 <p>My teaching development began during my undergraduate career at the University of Illinois at Urbana–Champaign, where I participated in a two-semester pedagogical training program that emphasized classroom management, leadership, and inclusive instructional design. Through this experience, I independently facilitated a first-year seminar and developed structured lesson plans centered on student discussion and reflection. Concurrently, as a laboratory assistant for the Department of Chemistry’s lecture courses, I designed and prepared lecture demonstrations that translated abstract chemical principles into tangible, observable processes. These early experiences solidified my commitment to active, demonstration-driven learning.</p>
@@ -105,7 +93,7 @@ author_profile: true
     </div>
 </details>
 
-<details open>
+<details>
 <summary><span style="font-size: 1.4rem; font-weight: 700;">Philosophy and Student Engagement</span></summary>
 
 <p>From my experience in the Geology of Ireland and Freshwater Biogeochemistry courses, I have found that geoscience attracts students from a wide range of disciplinary backgrounds. To foster student engagement utilizing these diverse disciplinary perspectives, I prioritize developing a shared language in the classroom, ensuring that all students can recognize and integrate multiple approaches to understanding natural phenomena. In my Freshwater Biogeochemistry course, I structure class sessions to move intentionally from qualitative conceptual discussions to quantitative analysis. Beginning with descriptive and process-based reasoning allows students who may be less comfortable with mathematics to build confidence, while still challenging their peers as we progressively introduce the rigorous quantitative framework. Through this iterative approach, students develop the tools necessary to interpret their natural environment with increasing independence. </p>
@@ -120,7 +108,7 @@ author_profile: true
 
 </details>
 
-<div style="margin-top: 40px;padding: 30px;background: #f4f4f4;border-radius: 18px">
+<div style="margin-top: 40px;padding: 30px;background: #ED7D31;border-radius: 18px">
   <h1 style="text-align: center;margin-top: 0;margin-bottom: 25px">Guest Lectures</h1>
   <div style="display: flex;gap: 20px;justify-content: center;flex-wrap: wrap">
     <img src="/images/Slide1.PNG"
@@ -137,4 +125,16 @@ author_profile: true
          style="width: 23%; min-width: 200px; border-radius: 12px">
   </div>
 
+</div>
+
+<div style="margin-top: 40px;padding: 30px;background: #ED7D31;border-radius: 18px">
+    <h1 style="text-align: center;margin: 0 0 30px 0">Potential Course Offerings</h1>
+    <div style="display: grid;grid-template-columns: repeat(3, 1fr);gap: 20px">
+    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Introductory Environmental Geology</div>
+    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Aquatic Environmental Chemistry</div>
+    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Isotope Geochemistry</div>
+    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Biogeochemistry</div>
+    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Environmental Data Exploration (R)</div>
+    <div style="background: white; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Environmental Geochemistry</div>
+    </div>
 </div>
