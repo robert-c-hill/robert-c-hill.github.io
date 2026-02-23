@@ -13,11 +13,24 @@ author_profile: true
 </div>
 
 <details open>
-<summary><span style="font-size: 1.4rem; font-weight: 700;">Motivation</span></summary>
-  
-<p>Geoscience is an extremely engaging field of science that pulls expertise from various disciplines (such as physics, chemistry, and biology) to describe complex modern and ancient systems. It is inherently interdisciplinary in nature and provides students the opportunity to learn by interacting with their natural world. This is what first drew me to geoscience; the opportunity to use the geological systems in my community to develop a personal understanding of geological processes. Now as both a researcher and instructor, I bring a translational perspective to my teaching, where I intentionally design courses integrating varied qualitative and quantitative modes of thinking to make basic geoscience concepts more accessible.</p>
+    <summary><span style="font-size: 1.4rem; font-weight: 700;">Motivation</span></summary>
+    <div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
 
-<p>During my years as a teaching assistant and into my role as an instructor, I have been continuously impressed by how the diverse perspectives and experiences of my students create a unique, sustained learning community. Central to my teaching philosophy is cultivating this supportive learning community where I implement collaborative learning, systems thinking, and research experiences to maximize student interest, engagement, and confidence as interpreters of their natural world.</p>
+  <!-- LEFT: TEXT -->
+  <div style="flex: 2; min-width: 300px;">
+      <p>Geoscience is an extremely engaging field of science that pulls expertise from various disciplines (such as physics, chemistry, and biology) to describe complex modern and ancient systems. It is inherently interdisciplinary in nature and provides students the opportunity to learn by interacting with their natural world. This is what first drew me to geoscience; the opportunity to use the geological systems in my community to develop a personal understanding of geological processes. Now as both a researcher and instructor, I bring a translational perspective to my teaching, where I intentionally design courses integrating varied qualitative and quantitative modes of thinking to make basic geoscience concepts more accessible.</p>
+      <p>During my years as a teaching assistant and into my role as an instructor, I have been continuously impressed by how the diverse perspectives and experiences of my students create a unique, sustained learning community. Central to my teaching philosophy is cultivating this supportive learning community where I implement collaborative learning, systems thinking, and research experiences to maximize student interest, engagement, and confidence as interpreters of their natural world.</p>
+
+      <!-- RIGHT: IMAGES -->
+  <div style="flex: 1; min-width: 220px; display: flex; flex-direction: column; gap: 20px;">
+
+    <img src="/images/Fert.PR.in.hands.png" alt="Teaching photo 1" style="width: 100%; border-radius: 12px;">
+
+    <img src="/images/Fert.PR.in.hands.png" alt="Teaching photo 2" style="width: 100%; border-radius: 12px;">
+
+  </div>
+
+</div>
 
 </details>
 
