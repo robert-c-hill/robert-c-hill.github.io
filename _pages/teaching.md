@@ -110,7 +110,7 @@ author_profile: true
 </details>
 
 <div style="margin-top: 40px;padding: 30px;background: #f4f4f4;border-radius: 18px">
-  <h2 style="text-align: center;margin-top: 0;margin-bottom: 25px">Guest Lectures</h2>
+  <h1 style="text-align: center;margin-top: 0;margin-bottom: 25px">Guest Lectures</h1>
   <div style="display: flex;gap: 20px;justify-content: center;flex-wrap: wrap">
     <img src="/images/Slide1.PNG"
          alt="Field Adventures"
