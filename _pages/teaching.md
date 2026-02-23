@@ -130,11 +130,11 @@ author_profile: true
 <div style="margin-top: 40px;padding: 30px;background: #F7C39F;border-radius: 18px">
     <h1 style="text-align: center;margin: 0 0 30px 0">Potential Course Offerings</h1>
     <div style="display: grid;grid-template-columns: repeat(3, 1fr);gap: 20px">
-    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Introductory Environmental Geology</div>
-    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Aquatic Environmental Chemistry</div>
-    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Isotope Geochemistry</div>
-    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Biogeochemistry</div>
-    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Environmental Data Exploration (R)</div>
-    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 500;">Environmental Geochemistry</div>
+    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 700;font-size: 1.05rem">Introductory Environmental Geology</div>
+    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 700;font-size: 1.05rem;">Aquatic Environmental Chemistry</div>
+    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 700;font-size: 1.05rem;">Isotope Geochemistry</div>
+    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 700;font-size: 1.05rem;">Biogeochemistry</div>
+    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 700;font-size: 1.05rem;">Environmental Data Exploration (R)</div>
+    <div style="background: #ED7D31; padding: 18px; border-radius: 14px; text-align: center; font-weight: 700;font-size: 1.05rem;">Environmental Geochemistry</div>
     </div>
 </div>
