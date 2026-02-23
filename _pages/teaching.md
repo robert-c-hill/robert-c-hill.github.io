@@ -109,20 +109,23 @@ author_profile: true
 
 </details>
 
+<div style="text-align: center;">
+    <h1>Guest Lectures</h1>
+</div>
 
 <div style="margin-top: 40px;padding: 25px;background: #f4f4f4;border-radius: 18px">
   <div style="display: flex;gap: 20px;justify-content: center;flex-wrap: wrap">
-    <img src="/images/Slide 1.PNG"
-         alt="Field instruction"
+    <img src="/images/Slide1.PNG"
+         alt="Field Adventures"
          style="width: 30%; min-width: 200px; border-radius: 12px">
-    <img src="/images/Slide 2.PNG"
-         alt="Laboratory teaching"
+    <img src="/images/Slide2.PNG"
+         alt="Water Analysis"
          style="width: 30%; min-width: 200px; border-radius: 12px">
-    <img src="/images/Slide 3.PNG"
-         alt="Classroom discussion"
+    <img src="/images/Slide3.PNG"
+         alt="Introduction to Rocks"
          style="width: 30%; min-width: 200px; border-radius: 12px">
-    <img src="/images/Slide 4.PNG"
-         alt="Classroom discussion"
+    <img src="/images/Slide4.PNG"
+         alt="Coal Production"
          style="width: 30%; min-width: 200px; border-radius: 12px">
   </div>
 
