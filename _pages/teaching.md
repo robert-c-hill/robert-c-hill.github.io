@@ -12,7 +12,7 @@ author_profile: true
 </div>
 
 <details open>
-<summary><h2>Motivation</h2></summary>
+<summary><h2 style="margin: 0;">Motivation</h2></summary>
 
 <p>Geoscience is an extremely engaging field of science that pulls expertise from various disciplines (such as physics, chemistry, and biology) to describe complex modern and ancient systems. It is inherently interdisciplinary in nature and provides students the opportunity to learn by interacting with their natural world. This is what first drew me to geoscience; the opportunity to use the geological systems in my community to develop a personal understanding of geological processes. Now as both a researcher and instructor, I bring a translational perspective to my teaching, where I intentionally design courses integrating varied qualitative and quantitative modes of thinking to make basic geoscience concepts more accessible.</p>
 
@@ -21,7 +21,7 @@ author_profile: true
 </details>
 
 <details open>
-<summary><h2>Philosophy and Student Engagement</h2></summary>
+<summary><h2 style="margin: 0;">Philosophy and Student Engagement</h2></summary>
 
 <p>From my experience in the Geology of Ireland and Freshwater Biogeochemistry courses, I have found that geoscience attracts students from a wide range of disciplinary backgrounds. To foster student engagement utilizing these diverse disciplinary perspectives, I prioritize developing a shared language in the classroom, ensuring that all students can recognize and integrate multiple approaches to understanding natural phenomena. In my Freshwater Biogeochemistry course, I structure class sessions to move intentionally from qualitative conceptual discussions to quantitative analysis. Beginning with descriptive and process-based reasoning allows students who may be less comfortable with mathematics to build confidence, while still challenging their peers as we progressively introduce the rigorous quantitative framework. Through this iterative approach, students develop the tools necessary to interpret their natural environment with increasing independence. </p>
 
@@ -37,7 +37,7 @@ author_profile: true
 </details>
 
 <details open>
-<summary><h2>Experience</h2></summary>
+<summary><h2 style="margin: 0;">Experience</h2></summary>
 
 <p>My teaching development began during my undergraduate career at the University of Illinois at Urbana–Champaign, where I participated in a two-semester pedagogical training program that emphasized classroom management, leadership, and inclusive instructional design. Through this experience, I independently facilitated a first-year seminar and developed structured lesson plans centered on student discussion and reflection. Concurrently, as a laboratory assistant for the Department of Chemistry’s lecture courses, I designed and prepared lecture demonstrations that translated abstract chemical principles into tangible, observable processes. These early experiences solidified my commitment to active, demonstration-driven learning.</p>
 
