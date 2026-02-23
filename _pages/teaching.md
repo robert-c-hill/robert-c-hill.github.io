@@ -25,11 +25,11 @@ author_profile: true
 <summary><span style="font-size: 1.4rem; font-weight: 700;">Experience</span></summary>
             
 <p>My teaching development began during my undergraduate career at the University of Illinois at Urbana–Champaign, where I participated in a two-semester pedagogical training program that emphasized classroom management, leadership, and inclusive instructional design. Through this experience, I independently facilitated a first-year seminar and developed structured lesson plans centered on student discussion and reflection. Concurrently, as a laboratory assistant for the Department of Chemistry’s lecture courses, I designed and prepared lecture demonstrations that translated abstract chemical principles into tangible, observable processes. These early experiences solidified my commitment to active, demonstration-driven learning.</p>
+
+<p>I later served as an instructor in <a href="https://merit.illinois.edu/about-merit/" target="_blank" rel="noopener noreferrer">Illinois’ Merit Program</a>, which emphasizes equitable, high-engagement instruction in STEM courses. Under the mentorship of a faculty instructor, I taught small sections of introductory chemistry which allowed me to tailor instruction to diverse student needs and to implement structured active-learning strategies. Through iterative problem-solving sessions and collaborative exercises, my students demonstrated measurable improvement in exam performance relative to larger lecture sections. This experience reinforced my belief that intentional course design and close instructor-student interaction can significantly improve conceptual understanding.</p>
     <div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
          <!-- LEFT: TEXT -->
         <div style="flex: 2; min-width: 300px;">
-    
-<p>I later served as an instructor in [Illinois’ Merit Program](https://merit.illinois.edu/about-merit/), which emphasizes equitable, high-engagement instruction in STEM courses. Under the mentorship of a faculty instructor, I taught small sections of introductory chemistry which allowed me to tailor instruction to diverse student needs and to implement structured active-learning strategies. Through iterative problem-solving sessions and collaborative exercises, my students demonstrated measurable improvement in exam performance relative to larger lecture sections. This experience reinforced my belief that intentional course design and close instructor-student interaction can significantly improve conceptual understanding.</p>
 
 <p>During my doctoral training at Duke University, I expanded my instructional scope through guest lectures in environmental and water science courses and through completion of a Graduate Certificate in College Teaching. In addition to lectures on foundational geoscience concepts and field and analytical methods, I designed and delivered a lecture on coal energy and its effects on local communities structured around a “lifecycle” framework. In this session, students traced coal from its geological formation through extraction, combustion, atmospheric emissions, and contamination pathways, culminating in case studies from North Carolina and broader U.S. energy policy. By framing this topic as an interconnected system, from geological processes to environmental and legislative consequences, I encouraged students to synthesize geological, chemical, and societal dimensions of energy production. I intentionally connect course material to students’ local communities and contemporary global issues so that abstract environmental principles become tangible and relevant.</p>
 
@@ -60,10 +60,36 @@ author_profile: true
                     "
                     onmouseover="this.style.opacity='1'"
                     onmouseout="this.style.opacity='0'">
-                    Holding a rock hammer during Geology of Ireland Field Trip
+                    Robert holding a rock hammer during Geology of Ireland Field Trip
                 </div>
             </div>
-            <img src="/images/ECS390Syllabus.png" alt="Teaching photo 2" style="width: 100%; border-radius: 12px;">
+            <a href="/files/ECS390_FreshwaterBGC_Spring2026.pdf" target="_blank"
+                style="position: relative; display: block; border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,.15); text-decoration: none;">
+                <!-- Document Preview Image -->
+                <img src="/images/evaluation-preview.jpg"
+                    alt="Teaching evaluation document"
+                    style="width: 100%; display: block;">
+                <!-- Hover Overlay -->
+                <div style="
+                    position: absolute;
+                    inset: 0;
+                    background: rgba(0,0,0,0.6);
+                    color: white;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    text-align: center;
+                    padding: 20px;
+                    opacity: 0;
+                    transition: opacity 0.2s ease;
+                    font-size: 0.95rem;
+                    font-weight: 500;
+                    "
+                    onmouseover="this.style.opacity='1'"
+                    onmouseout="this.style.opacity='0'">
+                    View Freshwater Biogeochemistry syllabus →
+                </div>
+            </a>
         </div>
     </div>
 </details>
