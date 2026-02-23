@@ -109,10 +109,6 @@ author_profile: true
 
 </details>
 
-<div style="text-align: center;">
-    <h1>Guest Lectures</h1>
-</div>
-
 <div style="margin-top: 40px;padding: 25px;background: #f4f4f4;border-radius: 18px">
     <div style="text-align: center;"><h1>Guest Lectures</h1></div>
   <div style="display: flex;gap: 20px;justify-content: center;flex-wrap: wrap">
