@@ -115,18 +115,19 @@ author_profile: true
 
 <div style="margin-top: 40px;padding: 25px;background: #f4f4f4;border-radius: 18px">
   <div style="display: flex;gap: 20px;justify-content: center;flex-wrap: wrap">
+    <div style="text-align: center;"><h1>Guest Lectures</h1></div>
     <img src="/images/Slide1.PNG"
          alt="Field Adventures"
-         style="width: 30%; min-width: 200px; border-radius: 12px">
+         style="width: 23%; min-width: 200px; border-radius: 12px">
     <img src="/images/Slide2.PNG"
          alt="Water Analysis"
-         style="width: 30%; min-width: 200px; border-radius: 12px">
+         style="width: 23%; min-width: 200px; border-radius: 12px">
     <img src="/images/Slide3.PNG"
          alt="Introduction to Rocks"
-         style="width: 30%; min-width: 200px; border-radius: 12px">
+         style="width: 23%; min-width: 200px; border-radius: 12px">
     <img src="/images/Slide4.PNG"
          alt="Coal Production"
-         style="width: 30%; min-width: 200px; border-radius: 12px">
+         style="width: 23%; min-width: 200px; border-radius: 12px">
   </div>
 
 </div>
