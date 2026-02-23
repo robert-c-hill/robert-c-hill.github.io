@@ -14,25 +14,33 @@ author_profile: true
 
 <details open>
     <summary><span style="font-size: 1.4rem; font-weight: 700;">Motivation</span></summary>
-<div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
+    
+<p>Geoscience is an extremely engaging field of science that pulls expertise from various disciplines (such as physics, chemistry, and biology) to describe complex modern and ancient systems. It is inherently interdisciplinary in nature and provides students the opportunity to learn by interacting with their natural world. This is what first drew me to geoscience; the opportunity to use the geological systems in my community to develop a personal understanding of geological processes. Now as both a researcher and instructor, I bring a translational perspective to my teaching, where I intentionally design courses integrating varied qualitative and quantitative modes of thinking to make basic geoscience concepts more accessible.</p>
 
-  <!-- LEFT: TEXT -->
-  <div style="flex: 2; min-width: 300px;">
-      <p>Geoscience is an extremely engaging field of science that pulls expertise from various disciplines (such as physics, chemistry, and biology) to describe complex modern and ancient systems. It is inherently interdisciplinary in nature and provides students the opportunity to learn by interacting with their natural world. This is what first drew me to geoscience; the opportunity to use the geological systems in my community to develop a personal understanding of geological processes. Now as both a researcher and instructor, I bring a translational perspective to my teaching, where I intentionally design courses integrating varied qualitative and quantitative modes of thinking to make basic geoscience concepts more accessible.</p>
-      <p>During my years as a teaching assistant and into my role as an instructor, I have been continuously impressed by how the diverse perspectives and experiences of my students create a unique, sustained learning community. Central to my teaching philosophy is cultivating this supportive learning community where I implement collaborative learning, systems thinking, and research experiences to maximize student interest, engagement, and confidence as interpreters of their natural world.</p>
-      </div>
+<p>During my years as a teaching assistant and into my role as an instructor, I have been continuously impressed by how the diverse perspectives and experiences of my students create a unique, sustained learning community. Central to my teaching philosophy is cultivating this supportive learning community where I implement collaborative learning, systems thinking, and research experiences to maximize student interest, engagement, and confidence as interpreters of their natural world.</p>
 
-      <!-- RIGHT: IMAGES -->
-  <div style="flex: 1; min-width: 220px; display: flex; flex-direction: column; gap: 20px;">
+</details>
 
-    <img src="/images/Fert.PR.in.hands.png" alt="Teaching photo 1" style="width: 100%; border-radius: 12px;">
+<details open>
+<summary><span style="font-size: 1.4rem; font-weight: 700;">Experience</span></summary>
+    <div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
+         <!-- LEFT: TEXT -->
+        <div style="flex: 2; min-width: 300px;">
+            
+<p>My teaching development began during my undergraduate career at the University of Illinois at Urbana–Champaign, where I participated in a two-semester pedagogical training program that emphasized classroom management, leadership, and inclusive instructional design. Through this experience, I independently facilitated a first-year seminar and developed structured lesson plans centered on student discussion and reflection. Concurrently, as a laboratory assistant for the Department of Chemistry’s lecture courses, I designed and prepared lecture demonstrations that translated abstract chemical principles into tangible, observable processes. These early experiences solidified my commitment to active, demonstration-driven learning.</p>
 
-    <img src="/images/Fert.PR.in.hands.png" alt="Teaching photo 2" style="width: 100%; border-radius: 12px;">
+<p>I later served as an instructor in Illinois’ Merit Program, which emphasizes equitable, high-engagement instruction in STEM courses. Under the mentorship of a faculty instructor, I taught small sections of introductory chemistry which allowed me to tailor instruction to diverse student needs and to implement structured active-learning strategies. Through iterative problem-solving sessions and collaborative exercises, my students demonstrated measurable improvement in exam performance relative to larger lecture sections. This experience reinforced my belief that intentional course design and close instructor-student interaction can significantly improve conceptual understanding.</p>
 
-  </div>
+<p>During my doctoral training at Duke University, I expanded my instructional scope through guest lectures in environmental and water science courses and through completion of a Graduate Certificate in College Teaching. In addition to lectures on foundational geoscience concepts and field and analytical methods, I designed and delivered a lecture on coal energy and its effects on local communities structured around a “lifecycle” framework. In this session, students traced coal from its geological formation through extraction, combustion, atmospheric emissions, and contamination pathways, culminating in case studies from North Carolina and broader U.S. energy policy. By framing this topic as an interconnected system, from geological processes to environmental and legislative consequences, I encouraged students to synthesize geological, chemical, and societal dimensions of energy production. I intentionally connect course material to students’ local communities and contemporary global issues so that abstract environmental principles become tangible and relevant.</p>
 
-</div>
-
+<p>At Duke University, I voluntarily assisted in an undergraduate capstone course focused on the geology of Ireland, in which students integrated their cumulative geoscience education, from plate tectonics to stratigraphy, through initial classroom preparation and field investigation abroad. This experience reinforced my commitment to experiential learning and utilizing the power of boots-on-the-ground instruction in deepening conceptual understanding. I have continued this approach in the upper-division undergraduate course I co-developed and currently co-teach, Freshwater Biogeochemistry: Processes and Human Impacts, which integrates traditional instruction with research-based learning. Students engage with primary literature, conduct field sampling or laboratory analysis, and complete independent projects grounded in their local environment. Throughout this course, I utilize local watersheds (e.g., Ellerbe Creek and Falls Lake Basin) to exemplify learned concepts. By structuring the course around both systems thinking and authentic investigation, I aim to connect foundational knowledge to independent scientific practice. </p>
+        </div>
+        <!-- RIGHT: IMAGES -->
+        <div style="flex: 1; min-width: 220px; display: flex; flex-direction: column; gap: 20px;">
+            <img src="/images/RobertHill.Ireland.jpg" alt="Teaching photo 1" style="width: 100%; border-radius: 12px;">
+            <img src="/images/ECS390Syllabus.jpg" alt="Teaching photo 2" style="width: 100%; border-radius: 12px;">
+        </div>
+    </div>
 </details>
 
 <details open>
@@ -48,18 +56,5 @@ author_profile: true
 
 <p>These approaches reflect my commitment to an inclusive, experiential teaching philosophy. By combining iterative instruction, collaborative learning, and local geological examples and investigations, I aim to help students develop confidence as capable interpreters of the natural world and as active participants in the geosciences.</p>
 
-
-</details>
-
-<details open>
-<summary><span style="font-size: 1.4rem; font-weight: 700;">Experience</span></summary>
-
-<p>My teaching development began during my undergraduate career at the University of Illinois at Urbana–Champaign, where I participated in a two-semester pedagogical training program that emphasized classroom management, leadership, and inclusive instructional design. Through this experience, I independently facilitated a first-year seminar and developed structured lesson plans centered on student discussion and reflection. Concurrently, as a laboratory assistant for the Department of Chemistry’s lecture courses, I designed and prepared lecture demonstrations that translated abstract chemical principles into tangible, observable processes. These early experiences solidified my commitment to active, demonstration-driven learning.</p>
-
- <p>I later served as an instructor in Illinois’ Merit Program, which emphasizes equitable, high-engagement instruction in STEM courses. Under the mentorship of a faculty instructor, I taught small sections of introductory chemistry which allowed me to tailor instruction to diverse student needs and to implement structured active-learning strategies. Through iterative problem-solving sessions and collaborative exercises, my students demonstrated measurable improvement in exam performance relative to larger lecture sections. This experience reinforced my belief that intentional course design and close instructor-student interaction can significantly improve conceptual understanding.</p>
-
-<p>During my doctoral training at Duke University, I expanded my instructional scope through guest lectures in environmental and water science courses and through completion of a Graduate Certificate in College Teaching. In addition to lectures on foundational geoscience concepts and field and analytical methods, I designed and delivered a lecture on coal energy and its effects on local communities structured around a “lifecycle” framework. In this session, students traced coal from its geological formation through extraction, combustion, atmospheric emissions, and contamination pathways, culminating in case studies from North Carolina and broader U.S. energy policy. By framing this topic as an interconnected system, from geological processes to environmental and legislative consequences, I encouraged students to synthesize geological, chemical, and societal dimensions of energy production. I intentionally connect course material to students’ local communities and contemporary global issues so that abstract environmental principles become tangible and relevant.</p>
-
-<p>At Duke University, I voluntarily assisted in an undergraduate capstone course focused on the geology of Ireland, in which students integrated their cumulative geoscience education, from plate tectonics to stratigraphy, through initial classroom preparation and field investigation abroad. This experience reinforced my commitment to experiential learning and utilizing the power of boots-on-the-ground instruction in deepening conceptual understanding. I have continued this approach in the upper-division undergraduate course I co-developed and currently co-teach, Freshwater Biogeochemistry: Processes and Human Impacts, which integrates traditional instruction with research-based learning. Students engage with primary literature, conduct field sampling or laboratory analysis, and complete independent projects grounded in their local environment. Throughout this course, I utilize local watersheds (e.g., Ellerbe Creek and Falls Lake Basin) to exemplify learned concepts. By structuring the course around both systems thinking and authentic investigation, I aim to connect foundational knowledge to independent scientific practice. </p>
 
 </details>
