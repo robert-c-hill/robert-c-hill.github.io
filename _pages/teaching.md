@@ -66,8 +66,8 @@ author_profile: true
             <a href="/files/ECS390_FreshwaterBGC_Spring2026.pdf" target="_blank"
                 style="position: relative; display: block; border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(0,0,0,.15); text-decoration: none;">
                 <!-- Document Preview Image -->
-                <img src="/images/evaluation-preview.jpg"
-                    alt="Teaching evaluation document"
+                <img src="/images/ECS390Syllabus.png"
+                    alt="Syllabus"
                     style="width: 100%; display: block;">
                 <!-- Hover Overlay -->
                 <div style="
