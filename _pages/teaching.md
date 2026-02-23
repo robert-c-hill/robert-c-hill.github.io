@@ -107,5 +107,23 @@ author_profile: true
 
 <p>These approaches reflect my commitment to an inclusive, experiential teaching philosophy. By combining iterative instruction, collaborative learning, and local geological examples and investigations, I aim to help students develop confidence as capable interpreters of the natural world and as active participants in the geosciences.</p>
 
-
 </details>
+
+
+<div style="margin-top: 40px;padding: 25px;background: #f4f4f4;border-radius: 18px">
+  <div style="display: flex;gap: 20px;justify-content: center;flex-wrap: wrap">
+    <img src="/images/Slide 1.PNG"
+         alt="Field instruction"
+         style="width: 30%; min-width: 200px; border-radius: 12px">
+    <img src="/images/Slide 2.PNG"
+         alt="Laboratory teaching"
+         style="width: 30%; min-width: 200px; border-radius: 12px">
+    <img src="/images/Slide 3.PNG"
+         alt="Classroom discussion"
+         style="width: 30%; min-width: 200px; border-radius: 12px">
+    <img src="/images/Slide 4.PNG"
+         alt="Classroom discussion"
+         style="width: 30%; min-width: 200px; border-radius: 12px">
+  </div>
+
+</div>
