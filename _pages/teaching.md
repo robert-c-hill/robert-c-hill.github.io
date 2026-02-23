@@ -37,8 +37,8 @@ author_profile: true
         </div>
         <!-- RIGHT: IMAGES -->
         <div style="flex: 1; min-width: 220px; display: flex; flex-direction: column; gap: 20px;">
-            <img src="/images/RobertHill.Ireland.jpg" alt="Teaching photo 1" style="width: 100%; border-radius: 12px;">
-            <img src="/images/ECS390Syllabus.jpg" alt="Teaching photo 2" style="width: 100%; border-radius: 12px;">
+            <img src="/images/RobertHill.Ireland.png" alt="Teaching photo 1" style="width: 100%; border-radius: 12px;">
+            <img src="/images/ECS390Syllabus.png" alt="Teaching photo 2" style="width: 100%; border-radius: 12px;">
         </div>
     </div>
 </details>
