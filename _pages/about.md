@@ -16,7 +16,7 @@ Looking Forward
 I am interested in the many applications of isotope geochemistry. My existing body of research consists of isotope geochemistry applications from deep-time earth systems to contemporary anthropogenically impacted modern systems. However, the applications of isotope chemistry extend far beyond geological and environmental sciences and I am interested in extending collaborations to research in the field of isotope metallomics (application of isotopes in health sciences). 
 --->
 
-Cat TaxTEST
+Cat Tax
 =======
 <p align="center">
   <img src="images/cat1.jpg" width="45%">
